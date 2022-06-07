@@ -1,0 +1,77 @@
+.social-heading {
+  position: absolute;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  font-weight: 800;
+
+  color: black;
+  margin-top: 17rem;
+  margin-left: 2rem;
+  -webkit-box-reflect: below -20px linear-gradient(transparent, #0002);
+}
+
+.social-youtube {
+  position: absolute;
+  width: 20%;
+  height: auto;
+  margin-top: 28rem;
+  margin-left: 35rem;
+  outline: 1.5rem solid black;
+  transform: scale(1.05);
+  border-radius: 15px;
+
+  z-index: 20;
+  cursor: pointer;
+}
+
+.social-youtube:hover {
+  box-shadow: 0 3rem 4rem rgba(0, 0, 0, 0.3);
+}
+
+.social-insta {
+  position: absolute;
+  width: 17rem;
+  margin-top: 57rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-left: 4rem;
+  cursor: pointer;
+  border-radius: 15px;
+
+  outline: 1.3rem solid black;
+  transform: scale(1.05);
+}
+
+.tree-yt {
+  position: absolute;
+  margin-top: 18.5rem;
+  margin-left: 45rem;
+}
+
+.social-insta:hover {
+  box-shadow: 0 3rem 4rem rgba(0, 0, 0, 0.3);
+}
+
+.cup-yt {
+  position: absolute;
+  width: 5.9rem;
+
+  margin-left: 21rem;
+  margin-top: 84.3rem;
+}
+
+.section-2 {
+  border: 1px solid black;
+  background-color: black;
+  clip-path: polygon(100% 0, 100% 0, 100% 100%, 0 100%);
+  height: 90rem;
+  margin-left: 30rem;
+}
+
+.section-3 {
+  border: 1px solid black;
+  background-color: black;
+  clip-path: polygon(100% 0, 100% 0, 0 0, 0 100%);
+  height: 90rem;
+  margin-top: 0.25px;
+}

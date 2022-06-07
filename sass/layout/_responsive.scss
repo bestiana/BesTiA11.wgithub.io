@@ -1,0 +1,711 @@
+@media all and (max-width: 1293px) {
+  .header-layout {
+    margin-left: 19rem;
+  }
+
+  .image {
+    margin-right: 10rem;
+  }
+
+  .social-youtube {
+    position: absolute;
+    margin-right: 20rem;
+    width: 20%;
+    height: auto;
+    margin-top: 28rem;
+    margin-left: 20rem;
+    outline: 1.5rem solid black;
+    transform: scale(1.05);
+    border-radius: 15px;
+
+    z-index: 20;
+    cursor: pointer;
+  }
+
+  .tree-yt {
+    margin-left: 20rem;
+  }
+
+  // .cloud {
+  //   padding-right: 20rem;
+  //   width: 100%;
+  //   height: auto;
+  // }
+
+  .social-line2 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 33rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line3 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 40.8rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line4 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 49.6rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 19rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 24rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+}
+
+@media all and (max-width: 1250px) {
+  .header-layout {
+    margin-left: 15rem;
+  }
+
+  .image {
+    margin-right: 20rem;
+    margin-top: 4rem;
+  }
+
+  .social-line2 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 38rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line3 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 45.9rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line4 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 54.4rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 17rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 22rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+
+  .cloud {
+    margin-left: 24rem;
+    width: 50rem;
+    margin-top: -10rem;
+  }
+}
+
+@media all and (max-width: 1190px) {
+  .social-youtube {
+    position: absolute;
+
+    width: 20%;
+    height: auto;
+    margin-top: 28rem;
+
+    outline: 1.5rem solid black;
+    transform: scale(1.05);
+    border-radius: 15px;
+
+    z-index: 20;
+    cursor: pointer;
+  }
+
+  .tree-yt {
+    position: absolute;
+  }
+
+  .tree-yt-div {
+    position: relative;
+    margin-left: -5rem;
+    width: 30rem;
+  }
+
+  .social-youtube-div {
+    position: relative;
+    margin-right: 2rem;
+    width: 70rem;
+  }
+
+  .header-layout {
+    margin-left: 17rem;
+    width: 46rem;
+  }
+
+  .experience {
+    display: none;
+  }
+
+  .social-line2 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 40rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line3 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 47.9rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line4 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 56.4rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 16rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 20rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+}
+
+@media all and (max-width: 1050px) {
+  .social-youtube {
+    position: absolute;
+
+    width: 20%;
+    height: auto;
+    margin-top: 28rem;
+
+    outline: 1.5rem solid black;
+    transform: scale(1.05);
+    border-radius: 15px;
+
+    z-index: 20;
+    cursor: pointer;
+  }
+
+  .tree-yt {
+    position: absolute;
+  }
+
+  .tree-yt-div {
+    position: relative;
+    margin-left: -14rem;
+    width: 30rem;
+  }
+
+  .social-youtube-div {
+    position: relative;
+    margin-right: 50rem;
+    width: 70rem;
+    margin-left: -10rem;
+  }
+  //////
+  .header-layout {
+    margin-left: 16rem;
+    width: 43rem;
+  }
+
+  .image {
+    margin-right: 40rem;
+    width: 50rem;
+  }
+
+  .author-div {
+    margin-left: 1rem;
+  }
+
+  .experience {
+    display: none;
+  }
+
+  .social-line2 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 40rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line3 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 47.9rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line4 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 56.4rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 14rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 18rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+}
+
+@media all and (max-width: 990px) {
+  .social-youtube {
+    position: absolute;
+
+    width: 20%;
+    height: auto;
+    margin-top: 28rem;
+
+    outline: 1.5rem solid black;
+    transform: scale(1.05);
+    border-radius: 15px;
+
+    z-index: 20;
+    cursor: pointer;
+  }
+
+  .tree-yt {
+    position: absolute;
+  }
+
+  .tree-yt-div {
+    position: relative;
+    margin-left: -29rem;
+    width: 30rem;
+  }
+
+  .social-youtube-div {
+    position: relative;
+    margin-right: 50rem;
+    width: 70rem;
+    margin-left: -27rem;
+  }
+  //////
+
+  .header-layout {
+    margin-left: 15rem;
+    width: 40rem;
+  }
+
+  .image {
+    margin-right: 50rem;
+
+    position: absolute;
+  }
+
+  .cloud {
+    position: absolute;
+  }
+
+  .author-div {
+    margin-left: 1rem;
+  }
+
+  a {
+    position: absolute;
+  }
+
+  .social {
+    margin-top: -15px;
+    margin-left: 15rem;
+  }
+
+  .contact {
+    margin-left: 26rem;
+    margin-top: -15px;
+  }
+
+  .about {
+    margin-top: -15px;
+    margin-left: 21rem;
+  }
+
+  .author-div {
+    margin-left: 1rem;
+  }
+
+  .experience {
+    display: none;
+  }
+
+  .social-line2 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 38rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line3 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 45.9rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line4 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 53.5rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 12rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 16rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+}
+
+@media all and (max-width: 890px) {
+  .header-layout {
+    margin-left: 12rem;
+    width: 31rem;
+  }
+
+  .section-2 {
+    visibility: hidden;
+  }
+
+  a {
+    position: absolute;
+  }
+
+  .social {
+    margin-top: -15px;
+    margin-left: 5rem;
+  }
+
+  .contact {
+    margin-left: 14.3rem;
+    margin-top: -15px;
+  }
+
+  .about {
+    margin-top: -15px;
+    margin-left: 10rem;
+  }
+
+  .author-div {
+    margin-left: 1rem;
+  }
+
+  .experience {
+    display: none;
+  }
+
+  .social-line2 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 24rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line3 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 31.3rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line4 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 39.5rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 8rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 12rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+}
+
+@media all and (max-width: 700px) {
+  .about-me-text-div {
+    position: absolute;
+    width: 15rem;
+  }
+
+  .header-layout {
+    margin-left: 8rem;
+    width: 25rem;
+  }
+
+  a {
+    position: absolute;
+  }
+
+  .social {
+    margin-top: -15px;
+    margin-left: 1rem;
+  }
+
+  .contact {
+    margin-left: 11.3rem;
+    margin-top: -15px;
+  }
+
+  .about {
+    margin-top: -15px;
+    margin-left: 6rem;
+  }
+
+  .author-div {
+    margin-left: 0.1rem;
+  }
+
+  .experience {
+    display: none;
+  }
+
+  .social-line2 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 16rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line3 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 23.5em;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .social-line4 {
+    border: 1px solid black;
+    width: 0;
+    height: 0.6rem;
+    margin-left: 31.5rem;
+    margin-top: -0.6rem;
+    border-color: grey;
+    border-right: none;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 10rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 15rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 8rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 4rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 12rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT {
+    margin-left: 6rem;
+    margin-top: 6rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
+    text-transform: uppercase;
+  }
+
+  .IMPORTANT-TEXT-SMALLER {
+    font-size: 2rem;
+    font-weight: 540;
+    margin-left: 0.5rem;
+    position: absolute;
+  }
+
+  h3 {
+    margin-left: 10rem;
+    margin-top: 4rem;
+    position: absolute;
+    text-transform: uppercase;
+  }
+}

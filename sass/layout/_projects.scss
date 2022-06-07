@@ -1,0 +1,128 @@
+.natours-container-m {
+  border: 1px solid black;
+  background-color: black;
+  border-radius: 15px;
+  height: 30rem;
+  width: 21rem;
+  position: absolute;
+  margin-top: 40rem;
+  margin-left: 2rem;
+}
+
+.nexter-container-m {
+  border: 1px solid black;
+  background-color: black;
+  border-radius: 15px;
+  height: 30rem;
+  width: 21rem;
+  position: relative;
+  margin-top: 40rem;
+  margin-left: 31rem;
+  position: absolute;
+}
+
+.trilo-container-m {
+  border: 1px solid black;
+  background-color: black;
+  border-radius: 15px;
+  height: 30rem;
+  width: 21rem;
+  position: relative;
+  margin-top: 40rem;
+  margin-left: 60rem;
+  position: absolute;
+}
+
+.DELETE {
+  &-me {
+    color: red;
+    font-size: 10rem;
+    margin-top: 100rem;
+  }
+}
+
+.projects {
+  position: relative;
+  height: 10rem;
+  margin-top: 40rem;
+  height: 32rem;
+  display: flex;
+  gap: 110px;
+  justify-content: center;
+
+  &-natours-container {
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 15px;
+    height: 30rem;
+    width: 22rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-nexter-container {
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 15px;
+    height: 30rem;
+    width: 22rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-trilo-container {
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 15px;
+    height: 30rem;
+    width: 22rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-natours-container-border {
+    border: 6px solid #238f7d;
+    height: 28.5rem;
+    width: 21rem;
+    border-radius: 15px;
+    position: absolute;
+  }
+
+  &-nexter-container-border {
+    border: 6px solid #c69963;
+    height: 28.5rem;
+    width: 21rem;
+    border-radius: 15px;
+    position: absolute;
+  }
+
+  &-trilo-container-border {
+    border: 6px solid #f93064;
+    height: 28.5rem;
+    width: 21rem;
+    border-radius: 15px;
+    position: absolute;
+  }
+
+  &-nexter-heading {
+    color: #c69963;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+  }
+
+  &-natours-heading {
+    color: #4eb799;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+  }
+
+  &-trilo-heading {
+    color: #f93064;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+  }
+}

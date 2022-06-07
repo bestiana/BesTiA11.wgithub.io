@@ -1,0 +1,101 @@
+.sass {
+  position: relative;
+
+  width: 34rem;
+  height: 19rem;
+  margin-left: 40rem;
+  margin-top: -27rem;
+  background-color: black;
+  border-radius: 1rem;
+}
+
+.sass-border {
+  position: absolute;
+  border: 6px solid white;
+  width: 33rem;
+  height: 18rem;
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+
+  border-radius: 1rem;
+  position: absolute;
+}
+
+.github-logo {
+  width: 4rem;
+  margin-left: -0.1rem;
+  margin-top: -0.1rem;
+  position: absolute;
+}
+
+.sass-text {
+  color: white;
+  position: absolute;
+  margin-top: 7rem;
+  margin-left: 3.4rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 3rem;
+  -webkit-box-reflect: below -20px linear-gradient(transparent, #0002);
+}
+
+.sassW-cloud-container {
+  width: 19rem;
+  height: 17rem;
+  margin-left: 48rem;
+  margin-top: -36rem;
+  position: relative;
+}
+
+.sassW-cloud {
+  position: relative;
+  width: 19rem;
+  height: 6rem;
+  background-color: black;
+  border-radius: 10rem;
+}
+
+.sassW-cloud::before {
+  content: "";
+  position: absolute;
+  width: 9rem;
+  height: 8rem;
+  background-color: black;
+  border-radius: 50%;
+  top: -3.5rem;
+  left: 2rem;
+  box-shadow: 70px 0 0 10px black;
+}
+
+.sassW-rain {
+  position: relative;
+  display: flex;
+  z-index: 1;
+}
+
+.sassW-rain span {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  margin: 0 2px;
+  border-radius: 50%;
+  bottom: 10px;
+  animation: cloud 2s linear infinite;
+  transform-origin: bottom;
+  animation-duration: calc(15s / var(--i));
+}
+
+@keyframes cloud {
+  0% {
+    transform: translateY(0) scale(1);
+  }
+
+  70% {
+    transform: translateY(11rem) scale(1);
+  }
+
+  100% {
+    transform: translateY(11rem) scale(0);
+  }
+}

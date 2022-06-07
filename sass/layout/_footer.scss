@@ -1,0 +1,21 @@
+.footer {
+  height: 13rem;
+  margin-top: 22rem;
+  background-color: black;
+  position: relative;
+
+  &-tree {
+    width: 7rem;
+    margin-top: -6.8rem;
+    position: absolute;
+    margin-left: 10rem;
+  }
+
+  &-contact {
+    color: white;
+    font-size: 1.3rem;
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: 3rem;
+  }
+}

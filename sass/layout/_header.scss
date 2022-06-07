@@ -1,0 +1,140 @@
+$primary-color-1: #f8f8f9;
+$primary-color-2: #040002;
+
+.upper-line {
+  border: 1px solid black;
+  height: 0.5rem;
+  background-color: $primary-color-2;
+  width: 100%;
+}
+
+.header-layout {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6.1rem;
+  width: 57.5rem;
+  margin-left: 20rem;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  align-items: flex-end;
+}
+
+li,
+a {
+  text-decoration: none;
+  list-style-type: none;
+  color: #040002;
+  font-weight: 800;
+  display: inline-block;
+  padding: 0rem 1rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.social:hover {
+  background-color: black;
+  color: white;
+
+  padding-top: 10px;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.about:hover {
+  background-color: black;
+  color: white;
+
+  padding-top: 10px;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.contact:hover {
+  background-color: black;
+  color: white;
+
+  padding-top: 10px;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.experience:hover {
+  background-color: black;
+  color: white;
+
+  padding-top: 10px;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.author {
+  margin-left: 5.8rem;
+
+  font-weight: 600;
+  letter-spacing: 7px;
+}
+
+.social {
+  margin-left: 16rem;
+}
+
+.author-div {
+  border: 1px solid black;
+  width: 10rem;
+  height: 10rem;
+  margin-left: 4.5rem;
+  border-radius: 50%;
+  margin-top: -120px;
+  background-color: $primary-color-2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -5.2rem;
+  position: fixed;
+  z-index: 1;
+}
+
+.author {
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: $primary-color-1;
+  transform: translate(-28%);
+  line-height: 2.8rem;
+}
+
+.social-line2 {
+  border: 1px solid black;
+  width: 0;
+  height: 0.6rem;
+  margin-left: 43rem;
+  margin-top: -0.6rem;
+  border-color: grey;
+  border-right: none;
+}
+
+.social-line3 {
+  border: 1px solid black;
+  width: 0;
+  height: 0.6rem;
+  margin-left: 50.8rem;
+  margin-top: -0.6rem;
+  border-color: grey;
+  border-right: none;
+}
+
+.social-line4 {
+  border: 1px solid black;
+  width: 0;
+  height: 0.6rem;
+  margin-left: 59.6rem;
+  margin-top: -0.6rem;
+  border-color: grey;
+  border-right: none;
+}

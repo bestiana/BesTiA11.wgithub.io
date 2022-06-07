@@ -1,0 +1,23 @@
+$primary-color-1: #f8f8f9;
+$primary-color-2: #040002;
+
+* {
+  *,
+  *::after,
+  *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
+
+body {
+  background-color: $primary-color-1;
+  font-family: "Work Sans", sans-serif;
+  min-height: 120vh;
+  position: relative;
+}
+
+html {
+  cursor: cell;
+}
